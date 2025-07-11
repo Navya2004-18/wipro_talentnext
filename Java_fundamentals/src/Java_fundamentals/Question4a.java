@@ -1,6 +1,6 @@
 package Java_fundamentals;
 
-public class Queston4a {
+public class Question4a {
 
 	public static void main(String[] args) {
 	  int num = 56;
@@ -16,4 +16,5 @@ public class Queston4a {
 
 	}
 
-}}
+}
+
